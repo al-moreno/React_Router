@@ -1,10 +1,9 @@
 import React from 'react';
 
-class Card extends React.Component {
+const Card = () => {
 
-   
 
-    render() {
+     {
         return (
             <div className='ui raised very padded text container segment'
                 style={{ marginTop: '80px' }}>
