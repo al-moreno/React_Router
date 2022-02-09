@@ -5,7 +5,7 @@ import React from 'react';
 
 // functional component
 const Contact = (props) => {
-
+  
   
     return (
         <div className='ui raised very padded text container segment'

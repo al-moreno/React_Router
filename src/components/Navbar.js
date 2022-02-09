@@ -6,7 +6,7 @@ const Navbar = (props) => {
     
     return (
         <nav className='ui raised  very padded segment'>
-            <Link className='ui teal inverted segment' to="/">Gloria</Link>
+            <Link className='ui teal inverted segment' to="/">Samantha</Link>
             <div className='ui right floated header'>
                 <button className="ui button "><Link to="/">Home</Link></button>
                 <button className="ui button "><Link to="/about">About</Link></button>
