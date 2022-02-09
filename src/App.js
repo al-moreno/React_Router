@@ -24,7 +24,7 @@ function App() {
                         path="/about"
                         element={<About />} />
                     <Route
-                        path="/card/:user"
+                        path="/card"
                         element={< Card />} />
                 </Routes>
             </Router>
