@@ -16,17 +16,16 @@ function App() {
                         exact
                         path="/"
                         element={<Home />} />
-
                     <Route
                         path="/contact"
-                        element={<Contact />} />
+                        element={<Contact/>} />
 
                     <Route
                         path="/about"
                         element={<About />} />
-                         <Route
+                    <Route
                         path="/card/:user"
-                        element={< Card/>} />
+                        element={< Card />} />
 
                 </Routes>
             </Router>

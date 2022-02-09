@@ -1,11 +1,8 @@
 import React from 'react';
 
 
+const Contact = () => {
 
-
-// functional component
-const Contact = (props) => {
-  
   
     return (
         <div className='ui raised very padded text container segment'
@@ -15,10 +12,8 @@ const Contact = (props) => {
                 condimentum, et porta urna maximus. Nam vitae sodales leo. Aliquam erat volutpat. Etiam at tristique enim, id lobortis metus. Maecenas porttitor velit auctor
                 velit dictum rutrum. Mauris eget ligula mollis, gravida leo eget, venenatis ipsum. Duis blandit leo eros, in scelerisque sem luctus ut. Integer dignissim
                 mauris neque, sed vulputate ante facilisis sit amet. </p>
-
         </div>
     )
-
-};
+}
 
 export default Contact;

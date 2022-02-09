@@ -11,10 +11,9 @@ const About = () => {
                 condimentum, et porta urna maximus. Nam vitae sodales leo. Aliquam erat volutpat. Etiam at tristique enim, id lobortis metus. Maecenas porttitor velit auctor
                 velit dictum rutrum. Mauris eget ligula mollis, gravida leo eget, venenatis ipsum. Duis blandit leo eros, in scelerisque sem luctus ut. Integer dignissim
                 mauris neque, sed vulputate ante facilisis sit amet. </p>
-
         </div>
     )
 
-};
+}
 
 export default About;

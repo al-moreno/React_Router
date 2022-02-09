@@ -2,8 +2,8 @@ import React from 'react';
 import { Link} from 'react-router-dom';
 
 // functional component
-const Navbar = (props) => {
-    
+const Navbar = () => {
+ 
     return (
         <nav className='ui raised  very padded segment'>
             <Link className='ui teal inverted segment' to="/">Samantha</Link>
